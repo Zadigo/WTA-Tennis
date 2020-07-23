@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import os
 
-PAGE = 'C:\\Users\\Pende\\Documents\\myapps\\WTA-Tennis\\pages\\EugeniBouchard.html'
+PAGE = ''
 
 class Pages:
     def __init__(self, page_name=None):
